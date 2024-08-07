@@ -1,6 +1,3 @@
-## Hi there 👋
-
-             
 <h1 allign="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fausto Oliva</h1>
 <h3 allign="center">Full Stach Develover | ChatBot Trainer | Student in the Information Systems Engineering</h3>
 
